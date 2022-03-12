@@ -7,7 +7,7 @@ Aplicação desenvolvida no  desafio Ignite React da Rocketseat Capítulo II - D
 </p>
 
 <h1 align="center">
-  <img alt="logo" title="#logo" src="./assets/git.png" />
+  <img alt="logo" title="#logo" src="./git/git.png" />
 </h1>
 <h2>Pré-requisitos</h2>
 
